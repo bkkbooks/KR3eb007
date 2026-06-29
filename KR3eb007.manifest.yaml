@@ -1,0 +1,290 @@
+canonical_identifier: bkk:krp/KR3eb007/v1
+canonical_location: https://kanripo.org/bkk/KR3eb007/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 重訂診家直訣
+  identifiers:
+    krp: KR3eb007
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb007.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb007_000.yaml, hash: 'sha256:9acddc7cdb51e6f808d6071fc06322bfa7ee490c2d7099e03a85b35cb8da2f4d'}
+  - {seq: 1, filename: KR3eb007_001.yaml, hash: 'sha256:736d093781063697058bdb0cf82c77d677abc1cee6b74273c21c7c374acd2208'}
+  - {seq: 3, filename: KR3eb007_003.yaml, hash: 'sha256:0511d4ad2ffbd2b7a03d54357b77bc0cc1d5c26944af1dbdfa22a0b396b3e29f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eb007_001.markers.yaml, hash: 'sha256:7f2f6194fd9abe29ed22173c76acefabe7159f3b9981d6b98b8f18b2faba6081'}
+  - {seq: 3, role: markers, filename: assets/KR3eb007_003.markers.yaml, hash: 'sha256:8ca657b7ec0509a263dc91fa841e9bae71f7f0896dd353b11ba785a145251665'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb007_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 112
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb007_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 4660
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb007_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 508
+  label: 指法總義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb007_jc_001-d3d3
+    span:
+    - body
+    - 508
+    - 2001
+  label: 二十四象會通
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb007_jc_001-d3d4
+    span:
+    - body
+    - 2001
+    - 2398
+  label: 八法總義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb007_jc_001-d3d5
+    span:
+    - body
+    - 2398
+    - 3603
+  label: 位數形勢
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb007_jc_001-d3d6
+    span:
+    - body
+    - 3603
+    - 4660
+  label: 微甚兼獨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 10427
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 390
+  label: 獨取寸口本義附人迎氣口本義
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d3
+    span:
+    - body
+    - 390
+    - 1318
+  label: 三關脈體通考
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d4
+    span:
+    - body
+    - 1318
+    - 1910
+  label: 氣血形勢直解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d5
+    span:
+    - body
+    - 1910
+    - 2813
+  label: 左右表裡直解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d6
+    span:
+    - body
+    - 2813
+    - 3498
+  label: 說神
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d7
+    span:
+    - body
+    - 3498
+    - 4209
+  label: 辨止
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d8
+    span:
+    - body
+    - 4209
+    - 4529
+  label: 初診久按不同出張石頑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d9
+    span:
+    - body
+    - 4529
+    - 5113
+  label: 單診總按不同
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d10
+    span:
+    - body
+    - 5113
+    - 5533
+  label: 脈有兩側
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d11
+    span:
+    - body
+    - 5533
+    - 5780
+  label: 脈有頭本
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d12
+    span:
+    - body
+    - 5780
+    - 6088
+  label: 脈有動搖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d13
+    span:
+    - body
+    - 6088
+    - 6346
+  label: 脈有俯側
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d14
+    span:
+    - body
+    - 6346
+    - 6795
+  label: 脈有內曲外曲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d15
+    span:
+    - body
+    - 6795
+    - 7010
+  label: 脈有無數綱絲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d16
+    span:
+    - body
+    - 7010
+    - 7389
+  label: 脈有變易無定
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d17
+    span:
+    - body
+    - 7389
+    - 7852
+  label: 脈有起伏中途變易
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d18
+    span:
+    - body
+    - 7852
+    - 9494
+  label: 外診撮要
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb007_jc_003-d4d19
+    span:
+    - body
+    - 9494
+    - 10427
+  label: 跋
+  type: section
+  level: 2
+hash: sha256:a01f83934f627c1eeb8686c0b8d8e69c1a2af0507b7e159cf936d48b6724ffd7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
