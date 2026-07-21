@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3eb007/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序醫有四科曰脈曰證曰藥曰方知脈而後知證知藥而後能方故脈尤汲汲也拙著脈義簡摩脈簡補義診家直訣辨脈平脈章句凡四種都十二卷博採百家參以己説名雖四種義實相承卷帙既繁脈絡難貫專取一種又苦弗完茲特撮其要者簡之又簡別為此編名曰重訂診家直訣
   hash: sha256:1685b5c8f1d7a1c33f37b2c6602406cb96027d101c46270241a8425b97a2c00a
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3eb007_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 重訂診家直訣
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3eb007.xml
-hash: sha256:0286559c4d5b5f378b403d40688a05753b38fdd6c4bf4dbc2e5b6d94256a6227
+hash: sha256:c7b330fba9e0f8d097921521b1b0d113783cf047ad57d7208619063b8d39856b
